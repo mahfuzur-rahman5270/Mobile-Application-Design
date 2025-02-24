@@ -1,2 +1,2 @@
-# Mobile-Application-Design-
+# Mobile-Application-Design
 MAD Lab
